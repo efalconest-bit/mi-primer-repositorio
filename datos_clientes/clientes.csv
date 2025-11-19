@@ -1,1 +1,7 @@
+id_cliente,nombre,apellido,correo,telefono
+1,Juan,Pérez,juan.perez@example.com,0991234567
+2,Ana,Lopez,ana.lopez@example.com,0987654321
+3,Carlos,Ramirez,carlos.ramirez@example.com,0975554433
+4,María,Gonzalez,maria.gonzalez@example.com,0964443322
+5,Pedro,Sanchez,pedro.sanchez@example.com,0952221100
 
